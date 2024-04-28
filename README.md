@@ -1,7 +1,7 @@
 - 👋 Merhaba! Ben Mehmet Can Aydın
 
-- 👀 Oyun yapma ve yazılım konusunda ilgiliyim. Anlık olarak Unity ve Blender kullanmaktayım.
+- 👀 Şu an Java Spring ve C# .Net ile web üzerinde çalışmaktayım.
 
-- 🌱 Şu an ise c#'ın yanı sıra Python, java ve julia gibi dillere de ilgi duymakta ve öğrenmekteyim.
+- 🌱 Şu an ise Spring ve .Net'in yanı sıra Python ve julia gibi dillere de ilgi duymakta ve öğrenmekteyim.
 
 - 💞️ Analitik düşünme becerim iyi olduğu için bulunduğum projelere katkı sağlayabilirim. Bu yüzden yarı zamanlı olarak çalışabileceğim veya staj yapabileceğim yerleri arıyorum.
