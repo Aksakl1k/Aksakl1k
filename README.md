@@ -1,7 +1,5 @@
 - 👋 Merhaba! Ben Mehmet Can Aydın
 
-- 👀 Şu an Java Spring ve C# .Net ile web üzerinde çalışmaktayım.
+- 👀 Gelişen yazılım dünyasına olan ilgim ve öğrenme tutkusu sayesinde farklı teknolojilerde yetkinlik kazandım. Java Spring, C# .NET, Windows Form Applications ve Python Django ile proje geliştirme deneyimine sahibim. Bu teknolojilerle çalışırken, hem arka uç geliştirme hem de kullanıcı ara yüzü tasarımında yetkinlik elde ettim.
 
-- 🌱 Şu an ise Spring ve .Net'in yanı sıra Python ve julia gibi dillere de ilgi duymakta ve öğrenmekteyim.
-
-- 💞️ Analitik düşünme becerim iyi olduğu için bulunduğum projelere katkı sağlayabilirim. Bu yüzden yarı zamanlı olarak çalışabileceğim veya staj yapabileceğim yerleri arıyorum.
+- 🌱 IoT alanında hem staj yaptım hem de üniversite bitirme projesi hazırlamaktayım. Bu projelerde donanım ve yazılım entegrasyonu sağlama, veri toplama ve analiz gibi konularda pratik deneyim kazandım. Ayrıca, veri analitiği ve hızlı hesaplamalar konularında sunduğu avantajlardan dolayı Julia programlama dilini öğreniyorum ve bu dili projelerimde etkin bir şekilde kullanmayı hedefliyorum.
